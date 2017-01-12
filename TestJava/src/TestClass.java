@@ -2,6 +2,7 @@
 public class TestClass {
 
     private String a;
+    private String b;
 
     public TestClass(String a) {
         this.a = a;
