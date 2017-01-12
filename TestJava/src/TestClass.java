@@ -1,6 +1,10 @@
 
 public class TestClass {
 
+    private String a;
+    private String b;
+    private String c;
+    private String e;
     private String d;
 
 
