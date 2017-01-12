@@ -1,20 +1,19 @@
 
 public class TestClass {
 
-    private String a;
-    private String b;
-    private String c;
+    private String d;
+
 
     public TestClass(String a) {
-        this.a = a;
+        this.d = a;
 
     }
 
     public String getA() {
-        return a;
+        return d;
     }
 
     public void setA(String a) {
-        this.a = a;
+        this.d = a;
     }
 }
