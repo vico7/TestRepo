@@ -2,6 +2,7 @@
 public class TestClass {
 
     private String a;
+    private String b;
     private String c;
 
     public TestClass(String a) {
