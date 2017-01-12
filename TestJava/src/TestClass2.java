@@ -1,10 +1,10 @@
 
-public class TestClass {
+public class TestClass2 {
 
     private String b;
 
 
-    public TestClass(String a) {
+    public TestClass2(String a) {
         this.b = a;
 
     }
