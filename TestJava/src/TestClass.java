@@ -12,6 +12,9 @@ public class TestClass {
     public String getA() {
         return b;
     }
+    public String getB() {
+        return b;
+    }
 
     public void setA(String a) {
         this.b = a;
