@@ -19,4 +19,5 @@ public class TestClass {
     public void setA(String a) {
         this.b = a;
     }
+    //local new
 }
