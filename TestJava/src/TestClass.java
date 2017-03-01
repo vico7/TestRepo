@@ -1,13 +1,13 @@
 
 public class TestClass {
+//new code
+             private String b;
 
-    private String b;
 
+             public TestClass(String a) {
+                this.b = a;
 
-    public TestClass(String a) {
-        this.b = a;
-
-    }
+            }
 
     public String getA() {
         return b;
